@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\geekbrains\\languageC\\homeworkC\\Task19\\Task19.csproj": {}
+    "C:\\geekbrains\\languageC\\homeworkC\\Task19\\Task19.csproj": {}
   },
   "projects": {
-    "c:\\geekbrains\\languageC\\homeworkC\\Task19\\Task19.csproj": {
+    "C:\\geekbrains\\languageC\\homeworkC\\Task19\\Task19.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\geekbrains\\languageC\\homeworkC\\Task19\\Task19.csproj",
+        "projectUniqueName": "C:\\geekbrains\\languageC\\homeworkC\\Task19\\Task19.csproj",
         "projectName": "Task19",
-        "projectPath": "c:\\geekbrains\\languageC\\homeworkC\\Task19\\Task19.csproj",
+        "projectPath": "C:\\geekbrains\\languageC\\homeworkC\\Task19\\Task19.csproj",
         "packagesPath": "C:\\Users\\Forestee\\.nuget\\packages\\",
-        "outputPath": "c:\\geekbrains\\languageC\\homeworkC\\Task19\\obj\\",
+        "outputPath": "C:\\geekbrains\\languageC\\homeworkC\\Task19\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Forestee\\AppData\\Roaming\\NuGet\\NuGet.Config"
